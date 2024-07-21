@@ -1,1 +1,6 @@
 # ASU-CNN
+
+Activation functions play a decisive role in determining the capacity of Deep Neural Networks (DNNs) as they enable neural networks to capture inherent nonlinearities present in data fed to them. The prior research on activation functions primarily focused on the utility of monotonic or non-oscillatory functions, until Growing Cosine Unit (GCU) broke the taboo for a number of applications. In this paper, a Convolutional Neural Network (CNN) model named as ASU-CNN is proposed which utilizes recently designed activation function ASU across its layers. The effect of this non-monotonic and oscillatory function is inspected through feature map visualizations from different convolutional layers. The optimization of proposed network is offered by Adam with a fine-tuned adjustment of learning rate. The network achieved promising results on both training and testing data for the classification of CIFAR-10. The experimental results affirm the computational feasibility and efficacy of the proposed model for performing tasks related to the field of computer vision.
+
+
+Rahman, Jamshaid Ul, Faiza Makhdoom, and Dianchen Lu. "ASU-CNN: An Efficient Deep Architecture for Image Classification and Feature Visualizations." arXiv preprint arXiv:2305.19146 (2023).
